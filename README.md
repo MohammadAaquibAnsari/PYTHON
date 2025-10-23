@@ -1,2 +1,2 @@
 # PYTHON
-Just Practice and a few projects i have made
+Just Practice and a few projects I have made
